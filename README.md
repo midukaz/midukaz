@@ -84,8 +84,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/midukaz/midukaz/output/snake.svg" alt="Snake animation" />
 
 ###
