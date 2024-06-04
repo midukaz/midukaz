@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Paulo but you can call me Kadu</h2>
+<h2 align="left">Hello 👋! My name is Paulo but you can call me Kadu😁👍</h2>
 
 ###
 
