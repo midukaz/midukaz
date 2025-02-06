@@ -23,10 +23,6 @@
    </a>
 </div>
 
-<a href="https://instagram.com/midukaz" target="_blank">
-  <img src="https://feathericons.com/icons/image.svg" alt="Instagram" width="24" height="24">
-</a>
-
 <!-- ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
 
