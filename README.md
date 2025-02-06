@@ -51,4 +51,3 @@
 
 ###
 
-![Snake animation](https://github.com/midukaz/midukaz/blob/output/github-contribution-grid-snake.svg)
