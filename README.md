@@ -1,24 +1,17 @@
 <h2 align="left">Hello 👋! My name is Paulo but you can call me Kadu😁👍</h2>
 
-## ⚡ Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=midukaz&show_icons=true&theme=radical)
-
-###
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: JavaScript, PHP, Python
 - **Frameworks**: Laravel, React, Node.js
 - **Outros**: Docker, Kubernetes, Git
 
-  
 ## 📫 Como me encontrar
 - LinkedIn: [João Silva](https://linkedin.com/in/joaosilva)
 - E-mail: joaosilva@email.com
 - Blog: [meublog.dev](https://meublog.dev)
 
-
 ## ⚡ Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=midukaz&show_icons=true&theme=radical)
 
 ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
