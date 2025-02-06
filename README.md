@@ -23,6 +23,9 @@
    </a>
 </div>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=fontawesome&logoColor=white)](https://instagram.com/midukaz)
+
+
 <!-- ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
 
