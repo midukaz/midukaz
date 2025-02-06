@@ -52,3 +52,8 @@
 ###
 
 ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+###
+
+## ⚡ Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=radical)
