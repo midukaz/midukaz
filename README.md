@@ -1,5 +1,8 @@
 <h2 align="left">Hello 👋! My name is Paulo but you can call me Kadu😁👍</h2>
 
+## ⚡ Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=midukaz&show_icons=true&theme=radical)
+
 ###
 
 <div align="center">
@@ -55,5 +58,3 @@
 
 ###
 
-## ⚡ Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=radical)
