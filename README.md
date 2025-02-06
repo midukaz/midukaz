@@ -22,7 +22,7 @@
    </a>
 </div>
 
-![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<!-- ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
 
 <!-- <div align="center">
