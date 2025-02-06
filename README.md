@@ -11,7 +11,9 @@
 - Blog: [meublog.dev](https://meublog.dev)
 
 ## ⚡ Estatísticas
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=midukaz&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&langs_count=5)
 
 ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
