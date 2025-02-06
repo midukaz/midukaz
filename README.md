@@ -1,12 +1,12 @@
 <h2 align="center">Hello 👋! My name is Paulo but you can call me Kadu😁👍</h2>
 
-⚡ Estatísticas
+<!--⚡ Estatísticas -->
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=midukaz&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midukaz&layout=compact&theme=radical&langs_count=5" height="180" alt="Linguagens mais usadas" />
  </div>
 
-📫 Como me encontrar
+<!--📫 Como me encontrar-->
 <div align="center">
    <a href="https://instagram.com/midukaz" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
