@@ -1,23 +1,16 @@
 <h2 align="left">Hello 👋! My name is Paulo but you can call me Kadu😁👍</h2>
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: JavaScript, PHP, Python
-- **Frameworks**: Laravel, React, Node.js
-- **Outros**: Docker, Kubernetes, Git
+## ⚡ Estatísticas
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=midukaz&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midukaz&layout=compact&theme=radical&langs_count=5" height="180" alt="Linguagens mais usadas" />
+ </div>
 
 ## 📫 Como me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/midukaz)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com](https://discord.com/channels/@me/1040625943380770868))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulobarreto758@[hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-barreto-bbbb621a8)
-
-## ⚡ Estatísticas
-
- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=midukaz&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midukaz&layout=compact&theme=radical&langs_count=5" height="180" alt="Linguagens mais usadas" />
-  </div>
-
 
 ![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -29,35 +22,35 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=adonis" height="30" alt="adonisjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-</div>
+<!-- <div align="left">
+   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=adonis" height="30" alt="adonisjs logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
+ </div> -->
 
 
 
