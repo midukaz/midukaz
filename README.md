@@ -13,8 +13,8 @@
 ## ⚡ Estatísticas
 
  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=midukaz&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midukaz&layout=compact&theme=radical&langs_count=5" height="150" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=midukaz&show_icons=true&theme=radical" alt="GitHub Stats" height="222" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midukaz&layout=compact&theme=radical&langs_count=5" height="222" alt="Linguagens mais usadas" />
   </div>
 
 
